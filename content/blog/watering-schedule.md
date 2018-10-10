@@ -4,7 +4,6 @@ date = "2018-10-10"
 tags = ["yard","irrigation","front-yard","house"]
 categories = ["yard"]
 banner = "img/banners/banner-2.jpg"
-draft = true
 +++
 
 Well the yard was aerated and re-seeded yesterday.  I set up all my hoses and
