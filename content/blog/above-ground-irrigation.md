@@ -40,7 +40,7 @@ with [Turf Titanz](http://turftitanz.com).
 
 In order to address this second "lesson," I have purchased the a bunch of stuff
 in an attempt to take the thinking (and most of the effort) out of watering the
-grass
+grass:
 
 ##### PURCHASED
 
