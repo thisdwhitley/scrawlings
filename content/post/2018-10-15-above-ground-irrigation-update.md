@@ -33,7 +33,7 @@ Here is another list of supplies to cover this area:
 1. [Hunter MP300090 3-Pack Rotator Spray Nozzle](https://amzn.to/2Sj0y4u) 
    ~ **$22**
 2. [Hunter Pop-Up Sprinkler PROS04CV](https://amzn.to/2qd48jS) = 3x$9 ~ **$27**
-3. [Rain Bird Spray Head Riser](https://amzn.to/2D3Slg9) = 3x$1.50 ~ **4.50**
+3. [Rain Bird Spray Head Riser](https://amzn.to/2D3Slg9) = 3x$1.50 ~ **$4.50**
 4. [3 Pack - Orbit Sprinkler Spike Base](https://amzn.to/2CImeBR) ~ **$14**
 
 I am *very* happy with this setup.  I mentioned before that the Hunter MP
