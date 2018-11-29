@@ -31,7 +31,7 @@ fixed.
 
 ---
 
-### Solution
+### SOLUTION
 
 Most of what I've [read](https://www.tacomaworld.com/threads/bad-door-lock-actuators.198658/#post-4459316)
 [online](https://www.tacomaworld.com/threads/another-door-lock-actuator-patch-thread.254593/) 
