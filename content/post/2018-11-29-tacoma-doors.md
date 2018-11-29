@@ -7,7 +7,7 @@ categories: ["truck"]
 ---
 
 I'm pretty sure I need to replace the actuators that lock my Tacoma doors and
-from what I can tell, it is not small task.<!--more-->
+from what I can tell, it is no small task.<!--more-->
 
 ---
 
@@ -58,6 +58,10 @@ shaft actuator motor** and can be found on ebay (sold by zinsky) or
 * The comments in the video are very insightful and should be read in their
 entirety.  They indicate that the driver side door is going to be a bit of a
 different process...
+* While I have to door panels off, I should also consider repairing the cracked
+  armrest:
+  * [Door panel armrest repair](https://www.tacomaworld.com/threads/door-panel-armrest-repair.94635/)
+  * [Driver side arm rest cracked](https://www.tacomaworld.com/threads/driver-side-arm-rest-cracked.435992/)
 
 ---
 
