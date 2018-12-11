@@ -42,6 +42,7 @@ treatment comes with some maintenance.
 * 2018-04-14
 * 2018-02-01
 * 2017-12-20
+* ...
 
 (I was told to change this every 6 months initially.  Then I told Kinetico how
 dirty it was each time and they recommended every 4 months.  It was still filthy
