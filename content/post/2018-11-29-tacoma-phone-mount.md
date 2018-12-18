@@ -14,10 +14,12 @@ constantly balance a phone in my lap.<!--more-->
 ### BACKGROUND
 
 My Tacoma is a 2009 (2nd Gen) model.  I love it.  I replaced the stock head unit
-almost immediately after purchasing.  At that time (2008), luxuries such as
-Android Auto just weren't a thing.  I did my best with what I had and souped it
-up so that I could use my iPod to listen to music while it was tucked into my
-center console.  It was awesome.
+almost immediately after purchasing (with a
+[Pioneer AVIC-F700BT](https://www.pioneerelectronics.com/PUSA/Car/GPS-Navigation/AVIC-F700BT)).
+At that time (2008), luxuries such as Android Auto just weren't a thing.  I did
+my best with what I had and souped it up so that I could use my iPod to listen
+to music while it was tucked into my center console.  I could even control it
+with the steering wheel controls.  It was awesome.
 
 But now it is dated.
 
