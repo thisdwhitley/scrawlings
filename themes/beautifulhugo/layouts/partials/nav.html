@@ -65,9 +65,9 @@
     {{ if isset .Site.Params "logo" }}
       <div class="avatar-container">
         <div class="avatar-img-border">
-          <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
-            <img class="avatar-img" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
-          </a>
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-hand-o-down fa-4x fa-stack-3x"></i>
+            </span>
         </div>
       </div>
     {{ end }}
