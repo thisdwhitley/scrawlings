@@ -192,6 +192,7 @@ img {
   }
 }
 
+/* this appears to be the whole image including the oval: setting opacity: 0 goes away */
 .navbar-custom .avatar-container {
   opacity: 1;
   position: absolute;
@@ -202,14 +203,15 @@ img {
   width: 50px;
   margin-top: -25px;
 }
+/* I can make the background border rectangular by removing border-radius */
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
   border-radius: 50%;
   margin-left: -50%;
   display: inline-block;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  /* box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8); */
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
@@ -233,9 +235,9 @@ img {
 
   .navbar-custom .avatar-container  .avatar-img-border {
     width: 100%;
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
+    /* box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8); */
   }
 
   .navbar-custom .avatar-container  .avatar-img {
@@ -760,7 +762,7 @@ div.splitbox div.right {
     padding: 15px 25px;
   }
 }
-.disqus-comments button:hover, 
+.disqus-comments button:hover,
 .disqus-comments button:focus {
   color: #FFF;
   background: #a30000;
