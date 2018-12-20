@@ -1,5 +1,5 @@
 ---
-title: Converting a WordPress blog to Hugo?
+title: Converting a WordPress blog to Hugo
 #subtitle: ongoing
 date: 2018-12-20
 tags: ["technology","blog"]
