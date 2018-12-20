@@ -4,7 +4,6 @@ title: Converting a WordPress blog to Hugo?
 date: 2018-12-20
 tags: ["technology","blog"]
 categories: ["technology"]
-draft: true
 ---
 
 As I've discussed in other places, I've tried quite a few times to have a blog.
