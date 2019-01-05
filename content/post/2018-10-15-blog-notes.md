@@ -32,7 +32,7 @@ And there is a fork that has some items that I like and need to reproduce:
   - I need to figure out how to use these partials, I think it'd be good so that I could set a variable in the header to include the disclaimer only when it is needed
 - take a look at directory structure.  if all my posts go into "posts" that's going to tough to look at.  It looks like pad does it as "year/month/title/" and potentially puts images in there too?
   - if I do this, I can either create a generic `_index.html` file in the directories *OR* I can add this structure as a taxonomy in `config.toml` and then I can browse just to thisdwhitley/2018/04/ to see all the posts from April 2018
-- fix "Short Version" and "[return to top]" and consider putting this into `template` or `shortcode`?
+- fix "Short Version" and "[return to top]" and consider putting this into `template` or `shortcode`? (refer to https://thisdwhitley.netlify.com/post/2018-12-20-converting-wordpress-to-hugo/ for working one)
 
 <https://github.com/pad92/beautifulhugo> and here it is in action:
 [Pad's Notes](https://notes.depad.fr)
