@@ -621,6 +621,17 @@ footer .theme-by {
   border-bottom-left-radius: 5px;
 }
 
+.disclosure {
+  text-align: left;
+  font-size: 14px;
+  padding: 10px;
+  font-style: italic;
+  margin: 0;
+  display: block;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
 /* --- Pager --- */
 
 .pager li a {
