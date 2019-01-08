@@ -4,7 +4,7 @@
 
 I have made the following changes in this fork:
 
-- updated the colors of the links to reflect my preference for NCSU
+- updated the colors of the links to reflect my allegiance NCSU
 - update the "See Also" section to align with my posts
 
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
