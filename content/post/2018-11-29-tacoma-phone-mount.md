@@ -4,6 +4,7 @@ subtitle: -todo-
 date: 2018-11-29
 tags: ["todo","tacoma"]
 categories: ["truck"]
+showDisclosure: true
 ---
 
 It is time to clean up all the wires coming out of the dash and stop trying to

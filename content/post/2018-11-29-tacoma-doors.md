@@ -4,6 +4,7 @@ subtitle: -todo-
 date: 2018-11-29
 tags: ["todo","tacoma"]
 categories: ["truck"]
+showDisclosure: true
 ---
 
 I'm pretty sure I need to replace the actuators that lock my Tacoma doors and
@@ -34,7 +35,7 @@ fixed.
 ### SOLUTION
 
 Most of what I've [read](https://www.tacomaworld.com/threads/bad-door-lock-actuators.198658/#post-4459316)
-[online](https://www.tacomaworld.com/threads/another-door-lock-actuator-patch-thread.254593/) 
+[online](https://www.tacomaworld.com/threads/another-door-lock-actuator-patch-thread.254593/)
 tend to point at the actuators in the door locks.  I have not taken the truck to
 a shop to inquire about the repair, but most of those same articles indicate
 that having it fixed by a pro is super expensive.  Naturally I won't be doing
