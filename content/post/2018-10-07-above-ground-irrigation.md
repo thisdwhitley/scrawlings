@@ -4,7 +4,7 @@ date = "2018-10-07"
 tags = ["yard","house","front-yard","irrigation"]
 categories = ["yard"]
 banner = "img/banners/banner-2.jpg"
-showDisclosure = true
+showDisclosure = "true"
 +++
 
 Well I hate to think that I failed at establishing a yard last year, but I did.

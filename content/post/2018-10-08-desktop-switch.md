@@ -4,7 +4,7 @@ date = "2018-10-08"
 tags = ["technology","network"]
 categories = ["tech"]
 banner = "img/banners/banner-2.jpg"
-showDisclosure: true
+showDisclosure = true
 +++
 
 ## Background
