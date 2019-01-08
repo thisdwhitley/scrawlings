@@ -4,6 +4,7 @@ title: Liquid Mechanic
 date: 2019-01-07
 tags: ["yard","house","home-ownership"]
 categories: ["house"]
+showDisclosure: true
 ---
 
 It is probably perspective, but I feel like I'm in the yard ***ALL*** the time.
