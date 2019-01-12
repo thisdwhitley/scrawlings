@@ -32,6 +32,41 @@ fixed.
 
 ---
 
+### UPDATE: 2019-01-12
+
+I completed the passenger back door today!  I was really anticipating getting
+hung up and it being a real pain and, actually, failing.  I had allocated an
+entire day of frustration and pain, but it was completed in about 2.5 hours (I
+actually cut the grass *maybe too late in the season* between the time I took
+the actuator out and when I replaced the motor).
+
+I absolutely could not have done it without the
+[video](https://youtu.be/FZCeeUWMTcY) but would like to add the following notes:
+
+- the video is awesome, and at one point even states how many screws you'll need
+  to undo once the actuator is out.  Unfortunately, that sort of foresight is
+  not provided when you're actually taking the panel off.  In all fairness, the
+  video author does state that most Tacoma owners probably already know how to
+  take the door panel off.  *Apparently I am not most Tacoma owners* which is
+  disappointing.  For future reference, there are ***8*** clips holding the door
+  in place.  Even with that knowledge, there's a good chance I would have broken
+  some of them.  But in my case, I broke off 4 of the 8.  Whoops.  And it really
+  sort of sucked because not only did I have to buy more, but it was tough to
+  get the busted ones out.  I used
+  [this](https://www.youtube.com/watch?v=uEjVd_Gscbc) method to get the busted
+  ones out.
+- getting the actuator body back into place is...horrible.  If I'm being honest,
+  I don't even know how I got it out, after monkey-ing with it, it eventually
+  sort of plopped out.  But getting it back in place probably took more time
+  than any other part of this project.  I wish I could provide some solid advice
+  on the best method to get it back in place, but I just wrestled with it.  I
+  can't say for sure what the best method is.  Just expect some time at that
+  part of the project.
+- I purchased this [auto trim removal set](https://amzn.to/2VM6t3D) but really
+  didn't use it.  This **might** explain the busted clips, but I don't want to
+  think so.
+- ***I still need to do the driver side front door...***
+
 ### SOLUTION
 
 Most of what I've [read](https://www.tacomaworld.com/threads/bad-door-lock-actuators.198658/#post-4459316)
