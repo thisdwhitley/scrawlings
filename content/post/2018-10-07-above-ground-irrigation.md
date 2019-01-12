@@ -9,7 +9,7 @@ showDisclosure = "true"
 
 Well I hate to think that I failed at establishing a yard last year, but I did.
 The only thing that could make me feel a little bit better is if I was at least
-able to ***LEARN*** from that experience.  Unfortunatly, I'm not sure I have...
+able to ***LEARN*** from that experience.  Unfortunately, I'm not sure I have...
 <!--more-->
 
 ### BACKGROUND
@@ -36,7 +36,7 @@ with [Turf Titanz](http://turftitanz.com).
 
 #### LESSON 2
 
-> I relied too much on *hoping* that the rain was sufficent for watering
+> I relied too much on *hoping* that the rain was sufficient for watering
 (basically I think I stopped watering too early in the season...)
 
 In order to address this second "lesson," I have purchased the a bunch of stuff

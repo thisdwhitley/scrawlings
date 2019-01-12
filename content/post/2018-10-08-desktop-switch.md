@@ -21,9 +21,9 @@ to it from my home computer.
 
 ## Issue
 
-I have noticed that sometimes (and oddly *only* somtimes) my work laptop "feels"
-laggy.  The thing is very powerful, so I do not suspect it is truely bogged down
-but rather that VNC is not rendering it quickly enough.  This hypothosis is
+I have noticed that sometimes (and oddly *only* sometimes) my work laptop "feels"
+laggy.  The thing is very powerful, so I do not suspect it is truly bogged down
+but rather that VNC is not rendering it quickly enough.  This hypothesis is
 strengthened by the occasional pixelated rendering.  So I have come to suspect
 network speed.  My laptop is connected wirelessly and my home computer is wired
 in.  Here is some `iperf` output for your viewing pleasure:

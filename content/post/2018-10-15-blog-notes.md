@@ -15,15 +15,20 @@ some things that I'd like to change (I need to learn more about
 
 - <s>change the colors to red</s> (more notes here)
 - make note that links may be affiliate
-- have categories in the top bar
+- <s>have categories in the top bar</s>
 
 And there is a fork that has some items that I like and need to reproduce:
 
 - find in the top bar
   - this looks non-trivial also...
 - small "share" icons
-- similar posts (based on tags) = this is actually pretty easily accomplished by putting "showRelatedPosts = true" in config.toml [I may want to change the style though...]
-- categories
+  - this looks like it is modified in [layouts/partials/share-links.html](https://github.com/pad92/beautifulhugo/blob/master/layouts/partials/share-links.html)
+  - and styled at the bottom of [static/html/main.css](https://github.com/pad92/beautifulhugo/blob/master/static/css/main.css)
+- <s>similar posts (based on tags) = this is actually pretty easily accomplished by putting "showRelatedPosts = true" in config.toml [I may want to change the style though...]</s>
+  - also to align with my h3 headings, modify `layouts/_default/single.html` and use `h3` in the `if .Site.Params.showRelatedPosts` section
+  - add a `</hr>` to the top of it
+  - move it to right below `.Content`
+  - update it to be upper:  `<h3 class="see-also">{{ i18n "seeAlso" | upper }}</h3>`
 - docker social page
 - table of contents (this is harder than it should be)
   - here is a page with some hints:  <https://github.com/gohugoio/hugo/issues/1778#issuecomment-313895910>
