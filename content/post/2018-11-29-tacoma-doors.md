@@ -67,6 +67,8 @@ I absolutely could not have done it without the
   think so.
 - ***I still need to do the driver side front door...***
 
+---
+
 ### SOLUTION
 
 Most of what I've [read](https://www.tacomaworld.com/threads/bad-door-lock-actuators.198658/#post-4459316)
