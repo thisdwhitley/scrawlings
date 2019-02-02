@@ -37,6 +37,7 @@ treatment comes with some maintenance.
 
 ### COMPLETED
 
+* 2019-02-01 *(new filter)*
 * 2018-10-14
 * 2018-08-13
 * 2018-04-14
