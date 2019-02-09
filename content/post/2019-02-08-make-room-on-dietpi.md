@@ -4,8 +4,8 @@ subtitle: "...by reducing swap..."
 date: 2019-02-08T23:03:08Z
 tags: ["linux","technology","dietpi","raspberrypi","pi"]
 categories: ["tech"]
-#showDisclosure: true
-draft: true
+showDisclosure: false
+draft: false
 ---
 
 I have been unable to update my DietPi installation for some time now because of
