@@ -52,7 +52,8 @@ To accomplish this, I used the following:
 * [12" sprinkler riser](https://amzn.to/2X1yFjQ)
 * [PVC coupler](https://amzn.to/2GzbCqP)
 * the sprinkler PVC is grey and I wanted white to match my lights so I roughed
-  up the PVC and spray painted it white:
+  up the PVC and spray painted it white (I let it dry a week, and by that I mean
+  I was too lazy to finish the project in one day):
   * sandpaper: I used 60 grit, but that was too aggressive, I'd recommend
     getting an [assorted pack](https://amzn.to/2tgBVKt) and using something more
     like 100 grit
