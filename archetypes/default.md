@@ -10,6 +10,9 @@ draft: true
 
 before the jump<!--more-->
 
+If you do not care to read (or about) all the words and explanations, feel free
+to skip to the [SHORT VERSION](#tldr)
+
 ---
 
 ### BACKGROUND
