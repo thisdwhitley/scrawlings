@@ -1,16 +1,23 @@
 ---
-title: "Tacoma Doors Won't Lock"
+title: "Tacoma Doors Lock Now"
 subtitle: "update: driver door complete!"
-date: 2019-01-24T19:30:32Z
+date: 2019-02-16T19:30:32Z
 tags: ["tacoma"]
 categories: ["truck"]
 showDisclosure: true
-draft: true
+draft: false
 ---
 
 I wrote [previously]({{< ref "2018-11-29-tacoma-doors.md" >}}) about the need to
 fix my truck doors so that they actually lock when I think they lock.  I tackled
 the driver door over the weekend, here are some notes.<!--more-->
+
+If you do not care to read (or about) all the words and explanations, feel free
+to skip to the [SHORT VERSION](#tldr)
+
+***NOTE:*** for whatever it is worth, I actually did this work back in January
+(2019-01-24) so the details are a *little* hazy, but it is rainy today so I
+finally had time away from the yard to finish this post...
 
 ---
 
@@ -81,18 +88,18 @@ I wasn't freaking out yet, here is how I addressed these challenges:
 
 When I finally mangled the actuator body out of the door cavity, it was clear
 pretty quickly that it was very different.  I am guessing that that is because
-these front doors have locks in the doors and so maybe it just requires the
-motor to be positioned differently.
+these front doors have locks in the door handles and so maybe it just requires
+the motor to be positioned differently.
 
 ##### SOLUTION #2
 
 I found that, similar to the back door actuator, this shell/body also had a
 total of 7 screws.  I removed these screws and pried apart tabs holding the
-"clamshell" together, just like before.  When I opened it up, it was totally
-different.  There were pins in the motor that I need to get to!  Those pins were
-attached to a piece of plastic that it looked like I could remove.  So I removed
-an additional 3 screws from it and gently pulled it out.  I was able to remove
-the motor from the pins and the auger and replaced it with a new one and
+"clamshell" together, just like before.  When I opened it up, ***it was totally
+different***.  There were pins in the motor that I need to get to!  Those pins
+were attached to a piece of plastic that it looked like I could remove.  So I 
+removed an additional 3 screws from it and gently pulled it out.  I was able to
+remove the motor from the pins and the auger and replaced it with a new one and
 carefully closed everything back up.
 
 *NOTE: there was some sort of blue lever behind a fragile looking piece of
@@ -108,18 +115,72 @@ position when done...it must have worked!* ***LUCKY!***
 ***I was totally winging it here!***
 
 #### CHALLENGE #3: getting the actuator body back in place in the door
+
+Once the motor had been replaced and the actuator body put back together, I was
+at the part where I needed to get this actuator body back inside the door
+cavity.  It was truly luck that I got it out and I knew getting it back in was
+going to be even harder.
+
+##### SOLUTION #3
+
+Armed with the false confidence from getting the back door working and back
+together, I determined that getting this actuator body back in would be easier
+if the window track was out of the way.  So I removed the bolt that I *guessed*
+was connecting the track up higher in the door:
+{{< gallery caption-position="center" caption-effect="fade" count="4" >}}
+  {{< figure >}}
+  {{< figure src="/img/2019-01-20-tacoma-doors-front/both-window-track-bolts.png" caption="this top one">}}
+{{< /gallery >}}
+Even with this bolt removed it was ***very*** tricky to get the actuator body
+back in the cavity that it needed to be in.  I found that if I pushed the "face"
+of the actuator body against the part of the door closest to me (with the cables
+bent up against the front-inside of the door) I was able to *just* sneak it by
+the window track and into the cavity where it needed to be.
+
 #### CHALLENGE #4: connecting the lock from the handle to the actuator body
+
+Even with the actuator body in place, I had to make sure it lined up with a few
+different parts.  The first was the same as the back door, a rod that
+essentially slides up into a cone hole.  This opens the door when the handle
+is pulled and was easy to line up if I just brought the actuator body up from
+the bottom of the cavity.  **However**, try as I might, I *could not get* the
+arm that needs to go into a "socket" in the actuator body to go into place.  I
+tried and tried and almost cried.  This is the piece that connects to the door
+handle that allows the key to unlock the door.
+
+##### SOLUTION #4
+
+After drying my tears, I determined that I just needed to get the actuator body
+in place *and then* insert that arm from the door handle lock.  This means that
+I had to take the door handle off.  As it turned out, this was much easier than
+I could have guessed.  I followed a great
+[post](https://www.tacomaworld.com/threads/door-handle-removal-installation.456066/)
+on this.  The pictures in that post are better than I could do, but here are
+some pictures of the socket/arm/rod/random-words-I've-used to (hopefully) help
+illustrate what I'm talking about.
+
+In these pictures, the (easy) door handle rod is indicated with yellow and the
+(impossible) door handle lock arm and socket is indicated with blue:
+{{< gallery caption-position="center" caption-effect="fade" >}}
+  {{< figure src="/img/2019-01-20-tacoma-doors-front/inside-door-arms.png" caption="these arms (pardon the glare)" >}}
+  {{< figure src="/img/2019-01-20-tacoma-doors-front/body-connections.png" caption="need to be inserted here" >}}
+  {{< figure src="/img/2019-01-20-tacoma-doors-front/door-handle-lock.png" caption="so take this out!" >}}
+{{< /gallery >}}
 
 ---
 
 ### NEXT STEPS
 
-* list of next steps
+* after overcoming these challenges, button everything back up and relish in
+  your victory
 
 ---
 
 ### SIDE NOTES
 
+* I knew exactly how many [clips](https://amzn.to/2NbxaL6) held the door panel
+  in place but still managed to break some because they were old and apparently
+  dry rotted.  Just be prepared to [buy some](https://amzn.to/2NbxaL6)
 * what I have referred to as a "actuator body" throughout is called either a
   "Lock Actuator," "Door Lock Actuator Motor," or simply "Lock Assembly" by
   Toyota.  I think the part numbers are as follows:
@@ -133,7 +194,8 @@ position when done...it must have worked!* ***LUCKY!***
 
 ### WHAT I LEARNED
 
-* I should learn something in each post
+* I learned that the Internet has gotten me into many a sticky situation and
+  then totally redeemed itself by getting me out of them!
 
 ---
 
@@ -144,16 +206,24 @@ position when done...it must have worked!* ***LUCKY!***
 * to take the driver panel off, I referred to this related
   [video](https://www.youtube.com/watch?v=yjhYKzE_yBg)...I *had* to watch it a
   few times...
+* a great post on
+  [removing the door handle](https://www.tacomaworld.com/threads/door-handle-removal-installation.456066/)
 
 ---
 
 ### SHORT VERSION
 
-To avoid **tl;dr** enjoy this instead:
+To avoid **tl;dr** here are some hints that helped me:
 
-~~~
-this will usually be code
-~~~
+1. there are some significant differences between the back door and the front,
+   but just use the knowledge gained there to locate the window track bolt
+2. the actuator body is very different too, but just keep carefully removing
+   things until you can get to and replace the motor
+3. in order to get the actuator body back in the cavity, remove the top bolt
+   holding the window track in place
+4. it is much easier to line up the arm that goes from the door handle lock to
+   the actuator body if you remove the door handle lock, affix the actuator body,
+   and then insert the door handle lock right back in where it needs to go
 
 ---
 
