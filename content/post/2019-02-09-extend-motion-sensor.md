@@ -5,7 +5,7 @@ date: 2019-02-09T21:57:36Z
 tags: ["home-ownership","lights","house"]
 categories: ["house"]
 showDisclosure: true
-draft: true
+draft: false
 ---
 
 I am in the process of converting my exterior lights to be motion activated
@@ -78,7 +78,6 @@ To accomplish this, I used the following:
   horribly to begin with...and that commentary is universal with everything I've
   attempted with this old and stupid house...but that's not what this post is
   about.  ***Still I'm angry!***
-
 
 ---
 
