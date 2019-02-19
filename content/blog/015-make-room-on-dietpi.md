@@ -2,6 +2,7 @@
 title: "Increase disk space on DietPi"
 subtitle: "...by reducing swap..."
 date: 2019-02-08T23:03:08Z
+type: "post"
 tags: ["linux","technology","dietpi","raspberrypi","pi"]
 categories: ["tech"]
 showDisclosure: false

@@ -2,13 +2,14 @@
 title: "Tacoma Doors Lock Now"
 subtitle: "update: driver door complete!"
 date: 2019-02-16T19:30:32Z
+type: "post"
 tags: ["tacoma"]
 categories: ["truck"]
 showDisclosure: true
 draft: false
 ---
 
-I wrote [previously]({{< ref "2018-11-29-tacoma-doors.md" >}}) about the need to
+I wrote [previously]({{< ref "009-tacoma-doors.md" >}}) about the need to
 fix my truck doors so that they actually lock when I think they lock.  I tackled
 the driver door over the weekend, here are some notes.<!--more-->
 
@@ -23,7 +24,7 @@ finally had time away from the yard to finish this post...
 
 ### BACKGROUND
 
-As I updated in the original [post]({{< ref "2018-11-29-tacoma-doors.md" >}}),
+As I updated in the original [post]({{< ref "009-tacoma-doors.md" >}}),
 to my surprise, I actually succeeded in taking apart the back door, removing the
 actuator body, and dissecting it to replace the actuator motor.  Maybe what was
 even more surprising is that I was successful in getting it *back in the truck*

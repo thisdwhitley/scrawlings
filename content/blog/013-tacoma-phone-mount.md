@@ -2,6 +2,7 @@
 title: Tacoma Phone Mount
 subtitle: -todo-
 date: 2018-11-29
+type: "post"
 tags: ["todo","tacoma"]
 categories: ["truck"]
 showDisclosure: true

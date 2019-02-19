@@ -2,6 +2,7 @@
 title: Liquid Mechanic
 #subtitle: ongoing
 date: 2019-01-07
+type: "post"
 tags: ["yard","house","home-ownership"]
 categories: ["house"]
 showDisclosure: true

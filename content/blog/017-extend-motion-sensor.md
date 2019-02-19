@@ -2,6 +2,7 @@
 title: "Extend motion sensor"
 subtitle: "to get around gutter downspout"
 date: 2019-02-09T21:57:36Z
+type: "post"
 tags: ["home-ownership","lights","house"]
 categories: ["house"]
 showDisclosure: true
@@ -28,7 +29,7 @@ really obstructed completely by the downspout.  For the record, I am using the
 my house.
 
 I have spent a lot of time working on my
-[sprinkler "system"]({{< ref "2018-10-15-above-ground-irrigation-update" >}}) so
+[sprinkler "system"]({{< relref "007-above-ground-irrigation-update" >}}) so
 I was aware that sprinkler risers are 1/2" PVC and already threaded.  So I cut
 the wires that connect to the motion sensor head and extended the wires so I
 could shove them through a 12" irrigation riser that I inserted in where the

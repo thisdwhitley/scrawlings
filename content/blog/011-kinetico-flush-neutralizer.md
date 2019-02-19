@@ -2,6 +2,7 @@
 title: Kinetico - Flush Neutralizer
 subtitle: ongoing
 date: 2018-12-11
+type: "post"
 tags: ["house","home-ownership","maintenance"]
 categories: ["house"]
 ---

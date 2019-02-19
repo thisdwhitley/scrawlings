@@ -1,11 +1,11 @@
-+++
-title = "Check VPN connectivity from command line"
-date = "2018-10-11"
-tags = ["technology","vpn","command line","bash","linux"]
-categories = ["tech"]
-banner = "img/banners/banner-2.jpg"
-showDisclosure = true
-+++
+---
+title: "Check VPN connectivity from command line"
+date: "2018-10-11"
+type: "post"
+tags: ["technology","vpn","command line","bash","linux"]
+categories: ["tech"]
+showDisclosure: true
+---
 
 I pay [TorGuard](https://torguard.net/aff.php?aff=4689) (affiliate link) for VPN
 services.  Mainly because sometimes I do some shady shit (that's alliteration).

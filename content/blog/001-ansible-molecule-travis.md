@@ -1,10 +1,13 @@
-+++
-title = "Testing Ansible with Molecule AND Travis"
-date = "2018-09-26T08:52:19-04:00"
-tags = ["ansible","molecule","travis","ci"]
-categories = ["tech"]
-banner = "img/banners/banner-2.jpg"
-+++
+---
+title: "Testing Ansible with Molecule AND Travis"
+subtitle: ""
+date: "2018-09-26T08:52:19-04:00"
+type: "post"
+tags: ["ansible","molecule","travis","ci"]
+categories: ["tech"]
+showDisclosure: false
+draft: false
+---
 
 At one point I was restarting all my ansible roles to include testing with
 molecule.  Then I realized I could test with github and Travis-ci which was also
