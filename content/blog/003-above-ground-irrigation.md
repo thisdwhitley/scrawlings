@@ -1,11 +1,11 @@
-+++
-title = "Above ground irrigation"
-date = "2018-10-07"
-tags = ["yard","house","front-yard","irrigation"]
-categories = ["yard"]
-banner = "img/banners/banner-2.jpg"
-showDisclosure = "true"
-+++
+---
+title: "Above ground irrigation"
+date: "2018-10-07"
+type: "post"
+tags: ["yard","house","front-yard","irrigation"]
+categories: ["yard"]
+showDisclosure: "true"
+---
 
 Well I hate to think that I failed at establishing a yard last year, but I did.
 The only thing that could make me feel a little bit better is if I was at least

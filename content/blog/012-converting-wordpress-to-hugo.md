@@ -2,8 +2,9 @@
 title: Converting a WordPress blog to Hugo
 #subtitle: ongoing
 date: 2018-12-20
+type: "post"
 tags: ["technology","blog"]
-categories: ["technology"]
+categories: ["tech"]
 ---
 
 As I've discussed in other places, I've tried quite a few times to have a blog.

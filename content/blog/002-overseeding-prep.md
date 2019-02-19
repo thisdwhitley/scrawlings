@@ -1,10 +1,11 @@
-+++
-title = "Overseeding Prep 2018"
-date = "2018-10-05"
-tags = ["yard","house"]
-categories = ["yard"]
-banner = "img/banners/banner-2.jpg"
-+++
+---
+title: "Overseeding Prep 2018"
+subtitle: ""
+date: "2018-10-05"
+type: "post"
+tags: ["yard","house"]
+categories: ["yard"]
+---
 
 If you've ever seen my yard it probably doesn't need to be said, but **I don't
 know what I'm doing**.  That was made very clear this year.  After removing 17

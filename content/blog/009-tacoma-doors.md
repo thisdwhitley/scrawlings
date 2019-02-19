@@ -2,6 +2,7 @@
 title: Tacoma Doors Won't Lock
 subtitle: -todo-
 date: 2018-11-29
+type: "post"
 tags: ["todo","tacoma"]
 categories: ["truck"]
 showDisclosure: true

@@ -2,6 +2,7 @@
 title: "USB-C port cleanout"
 #subtitle: ""
 date: 2019-01-29T19:30:32Z
+type: "post"
 tags: ["misc"]
 categories: ["tech"]
 showDisclosure: false

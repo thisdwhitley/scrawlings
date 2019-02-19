@@ -1,11 +1,11 @@
-+++
-title = "Desktop switch"
-date = "2018-10-08"
-tags = ["technology","network"]
-categories = ["tech"]
-banner = "img/banners/banner-2.jpg"
-showDisclosure = true
-+++
+---
+title: "Desktop switch"
+date: "2018-10-08"
+type: "post"
+tags: ["technology","network"]
+categories: ["tech"]
+showDisclosure: true
+---
 
 ## Background
 

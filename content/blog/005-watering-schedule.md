@@ -2,17 +2,18 @@
 title: Watering Schedule
 subtitle: ...for now
 date: 2018-10-10
+type: "post"
 tags: ["yard","irrigation","front-yard","house"]
 categories: ["yard"]
 ---
 
 <!-- +++
-title = "Watering Schedule"
-date = "2018-10-10"
-tags = ["yard","irrigation","front-yard","house"]
-categories = ["yard"]
-banner = "img/banners/banner-2.jpg"
-+++ -->
+title: "Watering Schedule"
+date: "2018-10-10"
+type: "post"
+tags: ["yard","irrigation","front-yard","house"]
+categories: ["yard"]
+--- -->
 
 Well the yard was aerated and re-seeded yesterday.  I set up all my hoses and
 sprinklers...let's see if we can get a yard established this year.<!--more-->

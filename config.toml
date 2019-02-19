@@ -13,6 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[permalinks]
+  blog = "/:year/:month/:title/"
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "my umpteenth attempt at capturing notes online"
@@ -67,11 +70,6 @@ pygmentsCodefencesGuessSyntax = true
 #  telegram = "username"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
-
-[[menu.main]]
     name = "About"
     identifier = "about"
     url = "page/about/"
@@ -83,17 +81,11 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/disclosure/"
     weight = 1
 
-# [[menu.main]]
-#     parent = "samples"
-#     name = "Math Sample"
-#     url = "post/2017-03-05-math-sample"
-#     weight = 2
-#
-# [[menu.main]]
-#     parent = "samples"
-#     name = "Code Sample"
-#     url = "post/2016-03-08-code-sample"
-#     weight = 3
+[[menu.main]]
+    parent = "about"
+    name = "me"
+    url = "page/about/"
+    weight = 1
 
 [[menu.main]]
     name = "Tags"
@@ -101,11 +93,36 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    name = "Tech"
-    url = "categories/tech"
+    name = "Topics"
+    identifier = "categories"
+    url = "categories"
+    weight = 5
+
+[[menu.main]]
+    parent = "categories"
+    name = "house"
+    url = "categories/house/"
+    weight = 3
+
+[[menu.main]]
+    parent = "categories"
+    name = "tech"
+    url = "categories/tech/"
     weight = 4
 
 [[menu.main]]
-    name = "Yard"
-    url = "categories/yard"
+    parent = "categories"
+    name = "truck"
+    url = "categories/truck/"
     weight = 5
+
+[[menu.main]]
+    parent = "categories"
+    name = "yard"
+    url = "categories/yard/"
+    weight = 6
+
+[[menu.main]]
+    name = "[OLD BLOGS]"
+    url = "archive"
+    weight = 7

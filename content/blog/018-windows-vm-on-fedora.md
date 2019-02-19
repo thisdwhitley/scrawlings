@@ -2,6 +2,7 @@
 title: "Windows VM on Fedora"
 subtitle: "...because Linux isn't always a supported OS"
 date: 2019-02-15T19:30:32Z
+type: "post"
 tags: ["libvirt","fedora","windows"]
 categories: ["tech"]
 showDisclosure: false

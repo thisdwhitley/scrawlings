@@ -2,6 +2,7 @@
 title: "Update Pi-hole"
 subtitle: "even after it is WAY out of sync"
 date: 2019-02-08T23:30:08Z
+type: "post"
 tags: ["linux","technology","dietpi","raspberrypi","pi"]
 categories: ["tech"]
 showDisclosure: false
@@ -9,7 +10,7 @@ draft: false
 ---
 
 Even after 
-[freeing up some space]({{< ref "2019-02-08-make-room-on-dietpi.md" >}}) on my
+[freeing up some space]({{< ref "015-make-room-on-dietpi.md" >}}) on my
 ancient [Raspberry Pi](https://www.raspberrypi.org), I was unable to update
 my [Pi-hole](https://pi-hole.net/) installation.  Here are notes on how I was
 able to get past that and install the latest version.<!--more-->

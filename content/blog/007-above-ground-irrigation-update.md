@@ -2,6 +2,7 @@
 title: Above Ground Irrigation
 subtitle: revisited
 date: 2018-10-15
+type: "post"
 tags: ["yard","irrigation","front-yard","house"]
 categories: ["yard"]
 showDisclosure: true

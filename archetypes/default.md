@@ -1,10 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-#subtitle:
+subtitle: ""
+type: post
 date: {{ .Date }}
 tags: [""]
 categories: [""]
-#showDisclosure: true
+showDisclosure: false
 draft: true
 ---
 
