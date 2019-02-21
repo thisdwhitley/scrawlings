@@ -1,4 +1,5 @@
-baseurl = "https://thisdwhitley.netlify.com"
+#baseurl = "https://thisdwhitley.netlify.com"
+baseurl = "https://thisdwhitley.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "thisdwhitley"
