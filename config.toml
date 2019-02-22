@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "UA-134824864-1"
+googleAnalytics = "UA-135020490-1"
 
 [permalinks]
   blog = "/:year/:month/:title/"
