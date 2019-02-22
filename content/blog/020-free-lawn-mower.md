@@ -6,7 +6,7 @@ date: 2019-02-22T18:41:11Z
 tags: ["yard","house","home-ownership"]
 categories: ["yard"]
 showDisclosure: false
-draft: true
+draft: false
 ---
 
 I am admittedly a packrat.  And when I saw that someone left a Honda mower on
