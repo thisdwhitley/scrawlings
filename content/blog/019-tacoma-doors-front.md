@@ -10,8 +10,8 @@ draft: false
 ---
 
 I wrote [previously]({{< ref "009-tacoma-doors.md" >}}) about the need to
-fix my truck doors so that they actually lock when I think they lock.  I tackled
-the driver door over the weekend, here are some notes.<!--more-->
+fix my truck doors so that they *actually* lock when I *think* they lock.  I
+tackled the driver door over the weekend, here are some notes.<!--more-->
 
 If you do not care to read (or about) all the words and explanations, feel free
 to skip to the [SHORT VERSION](#tldr)
@@ -34,6 +34,10 @@ In the nature of full disclosure, I absolutely could **NOT** have done this were
 it not for the awesome [video by Tony Manriquez](https://youtu.be/FZCeeUWMTcY).
 For the back door I just watched the video, paused it, did it myself, and
 continued until I was done.  I couldn't believe it, but I did it.
+
+***It was somewhat unclear in the comments of the youtube video, but I used the
+same [20mm D Flat Shaft Door Lock Actuator Motor](https://amzn.to/2GTUhZP) for
+both the front and back door.***
 
 Well, that gave me the confidence to tackle the driver door and, boy, was that
 confidence ***misplaced!***  I had read in the very helpful comments that the
@@ -179,17 +183,22 @@ In these pictures, the (easy) door handle rod is indicated with yellow and the
 
 ### SIDE NOTES
 
-* I knew exactly how many [clips](https://amzn.to/2NbxaL6) held the door panel
-  in place but still managed to break some because they were old and apparently
-  dry rotted.  Just be prepared to [buy some](https://amzn.to/2NbxaL6)
+* the approach here was, instead of replacing that whole "body," I took that
+  thing apart and just replaced the part that was broken, the
+  [motor](https://amzn.to/2FPz838) (same motor fits both "bodies")
 * what I have referred to as a "actuator body" throughout is called either a
   "Lock Actuator," "Door Lock Actuator Motor," or simply "Lock Assembly" by
   Toyota.  I think the part numbers are as follows:
   * rear door: [69050-04020](https://amzn.to/2FLFOiH)
   * front door: [69040-04030](https://amzn.to/2DxxhO8)
-* the approach here was, instead of replacing that whole "body," I took that
-  thing apart and just replaced the part that was broken, the
-  [motor](https://amzn.to/2FPz838) (same motor fits both "bodies")
+* I knew exactly how many [clips](https://amzn.to/2NbxaL6) held the door panel
+  in place but still managed to break some because they were old and apparently
+  dry rotted.  Just be prepared to [buy some](https://amzn.to/2NbxaL6)
+* I attempted to "fix" the cracked arm rest using
+  [Bondic](https://amzn.to/2NmHosn) but that didn't work one little bit.  At
+  least now I now how simple it is to take that panel off...so I can put this
+  off another few years
+
 
 ---
 
@@ -204,6 +213,7 @@ In these pictures, the (easy) door handle rod is indicated with yellow and the
 
 <div id="tldr"></div>
 
+* ***awesome*** [video by Tony Manriquez](https://youtu.be/FZCeeUWMTcY)
 * to take the driver panel off, I referred to this related
   [video](https://www.youtube.com/watch?v=yjhYKzE_yBg)...I *had* to watch it a
   few times...
