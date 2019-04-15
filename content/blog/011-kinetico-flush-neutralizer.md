@@ -1,7 +1,7 @@
 ---
 title: Kinetico - Flush Neutralizer
 subtitle: ongoing
-date: 2018-12-11
+date: 2019-04-15
 type: "post"
 tags: ["house","home-ownership","maintenance"]
 categories: ["house"]
@@ -41,6 +41,7 @@ clean the filter.*
 
 ### COMPLETED
 
+* 2019-04-14
 * 2018-10-14
 * 2018-04-14
 * 2018-10-20
