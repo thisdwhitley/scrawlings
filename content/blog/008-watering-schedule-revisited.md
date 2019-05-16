@@ -1,6 +1,6 @@
 ---
-title: Watering Schedule
-subtitle: revisited
+title: Watering Schedule Revisited
+# subtitle: revisited
 date: 2018-10-31
 type: "post"
 tags: ["yard","irrigation","front-yard","house"]
